@@ -1,7 +1,7 @@
 # Вадим Степанов
 
 ## Фотография
-![](https://github.com/stvadu/StVadu/blob/main/Photo.png)
+[Photo](https://github.com/stvadu/StVadu/assets/132788863/8fbc8645-8bac-4274-b248-d60195331532)
 ## Образование
 Высшее: _СПбГУ, факультет географии и геоэкологии_
 ## Семейное положение
